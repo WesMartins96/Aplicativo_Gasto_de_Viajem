@@ -1,5 +1,6 @@
 # Aplicativo_Gasto_de_Viajem
 § Aplicativo que sujere o gasto aproximadamente de suas viajens!.
+
 § Projeto inicial que leva em si conceitos mais simples de android.
 
 § Se caso o usuário se esquecer de preencher algum campo do app
